@@ -80,7 +80,7 @@ Interested in building scalable applications and solving real-world problems.
 </div>
 
 
-## 🐍 contribution snake
+## Contribution Snake
 
 <div align="center">
 
