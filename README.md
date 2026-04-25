@@ -6,9 +6,9 @@
 
 # Hey, I'm Anam Khan 🎀
 
-### CSE undergrad · full stack + data analytics 
+### CSE undergrad · SDE | Data Analytics · Full-stack & Data
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anam--k-e91e8c?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/anam-khan-02878830b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anam--khan-e91e8c?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anam-khan-02878830b)
 [![Gmail](https://img.shields.io/badge/Gmail-anamk2005in-e91e8c?style=flat&logo=gmail&logoColor=white)](mailto:anamk2005in@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Ana--m7-e91e8c?style=flat&logo=github&logoColor=white)](https://github.com/Ana-m7)
 
@@ -22,36 +22,36 @@ Interested in building scalable applications and solving real-world problems.
 
 ---
 
-## Tech Stack
-
+## Tech stack
+ 
 **Languages**
-
-![Python](https://img.shields.io/badge/Python-e91e8c?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-c2185b?style=flat&logo=javascript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-e91e8c?style=flat&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-c2185b?style=flat&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-e91e8c?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-c2185b?style=flat&logo=css3&logoColor=white)
-
+ 
+![Python](https://img.shields.io/badge/Python-f06292?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f48fb1?style=for-the-badge&logo=javascript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-f06292?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-f48fb1?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-f06292?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-f48fb1?style=for-the-badge&logo=css3&logoColor=white)
+ 
 **Data & ML**
-
-![XGBoost](https://img.shields.io/badge/XGBoost-e91e8c?style=flat&logo=python&logoColor=white)
-![Prophet](https://img.shields.io/badge/Prophet-c2185b?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-e91e8c?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-c2185b?style=flat&logo=numpy&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-e91e8c?style=flat&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-c2185b?style=flat&logo=powerbi&logoColor=white)
-
+ 
+![XGBoost](https://img.shields.io/badge/XGBoost-f06292?style=for-the-badge&logo=python&logoColor=white)
+![Prophet](https://img.shields.io/badge/Prophet-f48fb1?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-f06292?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-f48fb1?style=for-the-badge&logo=numpy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-f06292?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-f48fb1?style=for-the-badge&logo=powerbi&logoColor=white)
+ 
 **Stack & Tools**
-
-![React](https://img.shields.io/badge/React-e91e8c?style=flat&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-c2185b?style=flat&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-e91e8c?style=flat&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-c2185b?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-e91e8c?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-c2185b?style=flat&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-e91e8c?style=flat&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-c2185b?style=flat&logo=firebase&logoColor=white)
+ 
+![React](https://img.shields.io/badge/React-f06292?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-f48fb1?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-f06292?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-f48fb1?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-f06292?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-f48fb1?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f06292?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-f48fb1?style=for-the-badge&logo=firebase&logoColor=white)
 
 ---
 
