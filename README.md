@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Ana-m7&color=e91e8c&style=flat&label=profile+views" alt="profile views"/>
+
 
 <br/>
 
@@ -8,7 +8,7 @@
 
 ### CSE undergrad · full stack + data analytics 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anam--k-e91e8c?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anam-k-02878830b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anam--k-e91e8c?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/anam-khan-02878830b)
 [![Gmail](https://img.shields.io/badge/Gmail-anamk2005in-e91e8c?style=flat&logo=gmail&logoColor=white)](mailto:anamk2005in@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Ana--m7-e91e8c?style=flat&logo=github&logoColor=white)](https://github.com/Ana-m7)
 
@@ -22,7 +22,7 @@ Interested in building scalable applications and solving real-world problems.
 
 ---
 
-## 🛠 Tech stack
+## Tech Stack
 
 **Languages**
 
@@ -67,39 +67,18 @@ Interested in building scalable applications and solving real-world problems.
 
 ---
 
-## 🔧 currently working on
-
-Wrapping up the Power BI dashboard for RetailSense and sharpening DSA + SQL for placements. Targeting Data Analyst and SDE roles graduating 2027.
-
----
-
-## 📊 github stats
+## Github Stats
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ana-m7&show_icons=true&theme=radical&bg_color=0d0d0d&border_color=e91e8c&icon_color=e91e8c&title_color=ff69b4&text_color=f8b4d4&hide_border=false&rank_icon=github" alt="GitHub Stats"/>
 
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-m7&layout=compact&theme=radical&bg_color=0d0d0d&border_color=e91e8c&title_color=ff69b4&text_color=f8b4d4&hide_border=false" alt="Top Languages"/>
+&nbsp;&nbsp;
+<img height="160" src="https://streak-stats.demolab.com?user=Ana-m7&theme=radical&background=0d0d0d&border=e91e8c&stroke=e91e8c&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideLabels=f8b4d4&dates=f8b4d4&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
 
 </div>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Ana-m7&theme=radical&background=0d0d0d&border=e91e8c&stroke=e91e8c&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideLabels=f8b4d4&dates=f8b4d4&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
-
 </div>
 
----
-
-## 🏆 github trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ana-m7&theme=radical&no-frame=true&column=6&margin-w=6" alt="GitHub Trophies"/>
-
-</div>
-
----
 
 ## 🐍 contribution snake
 
@@ -111,13 +90,16 @@ Wrapping up the Power BI dashboard for RetailSense and sharpening DSA + SQL for 
   <img alt="contribution snake" src="https://raw.githubusercontent.com/Ana-m7/Ana-m7/output/github-contribution-grid-snake.svg"/>
 </picture>
 
+
 </div>
 
 ---
+<img src="https://komarev.com/ghpvc/?username=Ana-m7&color=e91e8c&style=flat&label=profile+views" alt="profile views"/>
+
 
 <div align="center">
 
-*open to Data Analyst and SDE roles · Mumbai · graduating 2027*
+*open to Data Analyst and SDE roles · graduating 2027*
 
 [![LinkedIn](https://img.shields.io/badge/let's_connect-e91e8c?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anam-k-02878830b)
 
