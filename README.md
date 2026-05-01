@@ -22,45 +22,12 @@ Interested in building scalable applications and solving real-world problems.
 
 ---
 
-## Tech stack
- 
-**Languages**
- 
-![Python](https://img.shields.io/badge/Python-f06292?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f48fb1?style=for-the-badge&logo=javascript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-f06292?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-f48fb1?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-f06292?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-f48fb1?style=for-the-badge&logo=css3&logoColor=white)
- 
-**Data & ML**
- 
-![XGBoost](https://img.shields.io/badge/XGBoost-f06292?style=for-the-badge&logo=python&logoColor=white)
-![Prophet](https://img.shields.io/badge/Prophet-f48fb1?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-f06292?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-f48fb1?style=for-the-badge&logo=numpy&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-f06292?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-f48fb1?style=for-the-badge&logo=powerbi&logoColor=white)
- 
-**Stack & Tools**
- 
-![React](https://img.shields.io/badge/React-f06292?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-f48fb1?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-f06292?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-f48fb1?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-f06292?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-f48fb1?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-f06292?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-f48fb1?style=for-the-badge&logo=firebase&logoColor=white)
-
----
-
 ## Projects
 
 | Project | What it does | Stack |
 |---|---|---|
 | [**RetailSense**](https://github.com/Ana-m7/RetailSense) | Sales demand forecasting on 1M+ Rossmann records with XGBoost + Prophet, SQL analytics, and a Power BI dashboard | Python, XGBoost, Prophet, SQLite, Power BI |
-| [**Spectra**](https://github.com/Ana-m7/Spectra) | Autism screening platform for parents of children under 5 — 98% accurate XGBoost model served via Flask with SHAP explainability | MERN, Flask, XGBoost, MongoDB, MySQL, Firebase |
+| [**Spectra**](https://github.com/Ana-m7/Spectra) | Autism screening platform for parents of children under 5 - 98% accurate XGBoost model served via Flask with SHAP explainability | MERN, Flask, XGBoost, MongoDB, MySQL, Firebase |
 | [**VisionGuard**](https://github.com/Ana-m7/VisionGuard) | Real-time video surveillance system detecting falls, fights, and unauthorized access using computer vision | YOLOv8, OpenCV, FastAPI, Python |
 | [**CloudDine**](https://github.com/Ana-m7/Cloud-Dine-main) | Full-stack cloud kitchen web app with 12+ REST APIs, role-based access, and Firebase auth | MERN, Firebase, Cloudinary, Tailwind |
 | [**ResuMate**](https://github.com/Ana-m7/ResuMate) | NLP-powered resume analyzer that scores skill alignment across 15+ domains and auto-detects skill gaps | Python, NLTK, Streamlit |
@@ -96,11 +63,3 @@ Interested in building scalable applications and solving real-world problems.
 ---
 <img src="https://komarev.com/ghpvc/?username=Ana-m7&color=e91e8c&style=flat&label=profile+views" alt="profile views"/>
 
-
-<div align="center">
-
-*open to Data Analyst and SDE roles · graduating 2027*
-
-[![LinkedIn](https://img.shields.io/badge/let's_connect-e91e8c?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anam-k-02878830b)
-
-</div>
