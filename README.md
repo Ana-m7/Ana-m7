@@ -34,18 +34,6 @@ Interested in building scalable applications and solving real-world problems.
 
 ---
 
-## Github Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-m7&layout=compact&theme=radical&bg_color=0d0d0d&border_color=e91e8c&title_color=ff69b4&text_color=f8b4d4&hide_border=false" alt="Top Languages"/>
-&nbsp;&nbsp;
-<img height="160" src="https://streak-stats.demolab.com?user=Ana-m7&theme=radical&background=0d0d0d&border=e91e8c&stroke=e91e8c&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideLabels=f8b4d4&dates=f8b4d4&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
-
-</div>
-
-</div>
-
 
 ## Contribution Snake
 
