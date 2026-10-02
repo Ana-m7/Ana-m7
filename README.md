@@ -4,7 +4,7 @@
 
 <br/>
 
-# Hey, I'm Anam Khan 🎀
+# Hey, I'm Anam Khan 
 
 ### CSE undergrad · SDE | Data Analytics · Full-stack & Data
 
